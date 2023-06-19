@@ -47,7 +47,3 @@ The following dependencies are required to run the User Premium Purchase Predict
 - seaborn
 - dateutil
 
-## References
-
-Provide any references or resources used in building the User Premium Purchase Prediction project.
-
